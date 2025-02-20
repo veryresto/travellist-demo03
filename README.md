@@ -4,8 +4,13 @@ We are using DigitalOcean droplet with Ubuntu 22.04 for testing the application.
 php version that is automatically install using command apt is php8.3
 
 1. install docker
+    ````
     snap install docker
-
+    ````
+2. install php
+````
+sudo apt install -y php-cli unzip php-mbstring php-xml php-bcmath php-mysql
+````
 
 ## Setup App
 
