@@ -1,4 +1,13 @@
-## Setup
+## Setup Server
+We are using DigitalOcean droplet with Ubuntu 22.04 for testing the application.
+
+php version that is automatically install using command apt is php8.3
+
+1. install docker
+    snap install docker
+
+
+## Setup App
 
 1. create .env from .env.example
 ````
