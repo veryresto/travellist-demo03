@@ -15,7 +15,13 @@ php version that is automatically install using command apt is php8.3
     ````
     sudo apt install -y php-cli unzip php-mbstring php-xml php-bcmath php-mysql
     ````
-3. clone app
+3. install composer
+    ````
+    cd ~
+    curl -sS https://getcomposer.org/installer -o /tmp/composer-setup.php
+    sudo php /tmp/composer-setup.php --install-dir=/usr/local/bin --filename=composer
+    ````
+4. clone app
     ````
     cd ~
     git clone https://github.com/veryresto/travellist-demo03.git
