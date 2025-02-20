@@ -1,3 +1,7 @@
+References:
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-nginx-on-ubuntu-20-04
+- https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-20-04
+
 ## Setup Server
 We are using DigitalOcean droplet with Ubuntu 22.04 for testing the application.
 
@@ -18,6 +22,11 @@ php version that is automatically install using command apt is php8.3
     ````
 
 ## Setup App
+Ensure you are in root project directory
+````
+cd ~/travellist-demo03
+````
+
 
 1. create .env from .env.example
     ````
