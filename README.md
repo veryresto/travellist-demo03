@@ -44,7 +44,7 @@ cd ~/travellist-demo03
     ````
 3. install packages
     ````
-    composer install
+    composer update && composer install
     ````
 4. generate key into .env APP_KEY
     ````
