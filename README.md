@@ -11,6 +11,11 @@ php version that is automatically install using command apt is php8.3
     ````
     sudo apt install -y php-cli unzip php-mbstring php-xml php-bcmath php-mysql
     ````
+3. clone app
+    ````
+    cd ~
+    git clone https://github.com/veryresto/travellist-demo03.git
+    ````
 
 ## Setup App
 
