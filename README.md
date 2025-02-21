@@ -61,7 +61,6 @@ cd ~/travellist-demo03
 
 ## Publish
 Serving laravel using all IPv4 addresses
-
-    ````
-    php artisan serve --host=0.0.0.0
-    ````
+````
+php artisan serve --host=0.0.0.0
+````
