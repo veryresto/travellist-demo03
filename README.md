@@ -13,7 +13,7 @@ php version that is automatically install using command apt is php8.3
     ````
 2. install php
     ````
-    sudo apt install -y php8.2-cli unzip php8.2-mbstring php8.2-xml php8.2-bcmath php8.2-mysql php8.2-intl
+    sudo apt install -y php8.2-cli unzip php8.2-mbstring php8.2-xml php8.2-bcmath php8.2-mysql php8.2-intl php8.2-fpm
     ````
 3. install composer
     ````
