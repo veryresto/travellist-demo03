@@ -1,6 +1,7 @@
 References:
 - [How To Install and Configure Laravel with Nginx on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-nginx-on-ubuntu-22-04)
 - [How To Install and Use Composer on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-22-04)
+- [How To Install and Set Up Laravel with Docker Compose on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-22-04)
 
 ## Setup Server
 We are using DigitalOcean droplet with Ubuntu 22.04 for testing the application.
